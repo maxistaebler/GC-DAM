@@ -1,0 +1,11 @@
+,semantic,contextual
+0,crawford/xception,nitinsss/fashion-dataset-with-over-15000-labelled-images
+1,/vgg16,kmader/skin-cancer-mnist-ham10000
+2,/vgg16bn,moradrawashdeh/attack-simulation-lab
+3,crawford/resnet50,mishra5001/credit-card
+4,crawford/vgg16,rahulsah06/titanic
+5,crawford/vgg19,alexryzhkov/automl-gp5-lightautoml-oofs-and-test-preds
+6,/resnet34,mriganksingh/cat-images-dataset
+7,/resnet18,/resnet152
+8,/resnet50,rishabhiitbhu/pretrainedmodels
+9,/resnet152,artemmmtry/eth3d-dataset

@@ -1,0 +1,11 @@
+,semantic,contextual
+0,sunilthite/llm-detect-ai-generated-text-dataset,carlmcbrideellis/llm-7-prompt-training-dataset
+1,carlmcbrideellis/llm-7-prompt-training-dataset,prashant111/the-simpsons-dataset
+2,etiennekaiser/gemini-pro-llm-daigt-dataset,deepshah16/song-lyrics-dataset
+3,conjuring92/ai-mix-v26,rohanrao/xeno-canto-bird-recordings-extended-a-m
+4,jdragonxherrera/augmented-data-for-llm-detect-ai-generated-text,radek1/deberta-v3-large-hf-weights
+5,thedrcat/daigt-proper-train-dataset,phucthaiv02/butterfly-image-classification
+6,thedrcat/daigt-v3-train-dataset,alexryzhkov/amexaggdatapicklef32
+7,thedrcat/daigt-v4-train-dataset,mazlumi/ielts-writing-scored-essays-dataset
+8,starblasters8/human-vs-llm-text-corpus,thedrcat/daigt-external-train-dataset
+9,thedrcat/daigt-external-train-dataset,shanegerami/ai-vs-human-text

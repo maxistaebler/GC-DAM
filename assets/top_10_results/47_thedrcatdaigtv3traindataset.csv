@@ -1,0 +1,11 @@
+,semantic,contextual
+0,etiennekaiser/gemini-pro-llm-daigt-dataset,dansbecker/hot-dog-not-hot-dog
+1,carlmcbrideellis/llm-mistral-7b-instruct-texts,vivovinco/league-of-legends-champion-stats
+2,thedrcat/daigt-external-train-dataset,isakatsuyoshi/llm-20-questions-overall-rankings-vs-scores
+3,jdragonxherrera/augmented-data-for-llm-detect-ai-generated-text,d4rklucif3r/cat-and-dogs
+4,carlmcbrideellis/llm-7-prompt-training-dataset,rupakroy/training-dataset-peft-lora
+5,starblasters8/human-vs-llm-text-corpus,mihelic/cyclistic
+6,thedrcat/daigt-proper-train-dataset,uraninjo/augmented-alzheimer-mri-dataset
+7,thedrcat/daigt-v2-train-dataset,thedrcat/daigt-v3-train-dataset
+8,thedrcat/daigt-v3-train-dataset,isakatsuyoshi/llm-20-questions-wikipedia-context
+9,thedrcat/daigt-v4-train-dataset,carlmcbrideellis/llm-7-prompt-training-dataset
